@@ -17,4 +17,4 @@ Guided project **DB II** Module.
 
 Please follow along as the instructor explores schema design with this API.
 
-# First commit for intro to relational databases
+# First commit for database schema design
